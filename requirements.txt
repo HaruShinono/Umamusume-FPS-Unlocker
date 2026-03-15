@@ -1,0 +1,4 @@
+psutil>=5.9
+pymem>=1.12
+PySide6>=6.6
+pyinstaller>=6.0
