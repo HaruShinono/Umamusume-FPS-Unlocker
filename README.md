@@ -47,7 +47,7 @@ No installation is required...Unless you prefer the harder way (which required P
 
    Start **Uma Musume Pretty Derby** and wait until the game is fully running.
 
-2. **Run the tool**
+2. **Run the tool (May need to run as Administrator)**
 
    Open:
 
