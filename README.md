@@ -217,4 +217,3 @@ umafps.exe
 * **Warning: Modifying game behavior may violate the TOS.**
 ---
 If you find this project useful, consider giving it a ⭐ on GitHub.
->>>>>>> origin/main
