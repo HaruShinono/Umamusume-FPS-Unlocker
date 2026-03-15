@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Umamusume FPS Unlocker
 
 A simple tool that unlocks and customizes the FPS limit for **Uma Musume Pretty Derby** on Windows.
