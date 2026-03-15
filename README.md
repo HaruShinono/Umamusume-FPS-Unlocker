@@ -36,11 +36,7 @@ No installation is required.
     ```
     pip install -r requirements.txt
     ```
-
-## Usage
-
-1. Start **the game**.
-2. Run the script:
+3. Run the script:
     ```
     python umafps.py
     ```
