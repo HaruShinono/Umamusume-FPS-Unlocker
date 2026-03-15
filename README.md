@@ -25,8 +25,7 @@ The compiled executable is already included in this repository.
 ```
 umafps.exe
 ```
-No installation is required.
-...Or you prefer the harder way....
+No installation is required...Unless you prefer the harder way (which required Python >= 3.9)...
 
 1. Clone this repository.
    ```
