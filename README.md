@@ -20,12 +20,12 @@ This tool modifies the game's memory at runtime to allow higher frame rates than
 
 The compiled executable is already included in this repository.
 
-Just download and run:
+**Just download and run**:
 
 ```
 umafps.exe
 ```
-
+No installation is required.
 ...Or you prefer the harder way....
 
 1. Clone this repository.
