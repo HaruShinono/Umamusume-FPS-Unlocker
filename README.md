@@ -46,7 +46,7 @@ umafps.exe
     ```
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. **Launch the game first**
 
