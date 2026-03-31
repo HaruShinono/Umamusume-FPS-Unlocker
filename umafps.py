@@ -24,9 +24,7 @@ pm = None
 original_bytes = None
 patch_address = 0
 
-
 class Window(QWidget):
-
     def __init__(self):
         super().__init__()
 
@@ -200,7 +198,6 @@ def restore_patch():
 
         except Exception as e:
             print(f"Restore failed: {e}")
-
 
 atexit.register(restore_patch)
 app = QApplication(sys.argv)
